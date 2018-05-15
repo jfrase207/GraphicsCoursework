@@ -1,0 +1,28 @@
+﻿  Grid.cpp
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\grid.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jamie\source\repos\hyperio\lab1\grid.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\grid.cpp(54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\grid.cpp(56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\grid.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MainGame.cpp
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(100): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(142): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(184): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(196): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(342): warning C4018: '<': signed/unsigned mismatch
+c:\users\jamie\source\repos\hyperio\lab1\maingame.cpp(348): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Mesh.cpp
+  Shader.cpp
+  Skybox.cpp
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(121): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\jamie\source\repos\hyperio\lab1\gameobject.h(147): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\jamie\Source\Repos\Hyperio\Debug\GP2Game.exe
